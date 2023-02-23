@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.time-bar {
+  margin: auto;
+  width: 100px;
+  background-color: lightslategrey;
+  border-top-right-radius: 20%;
+  border-top-left-radius: 20%;
+}
+
+.time {
+  font-size: 80px;
+  color: black;
+}
+
+.bar {
+  width: 100px;
+  margin: auto;
+  padding: 16px 0;
+  background-color: lightslategrey;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.leg {
+  width: 10px;
+  height: 100px;
+  margin: auto;
+  padding: 16px 0;
+  background-color: lightslategrey;
+}
+
+.light {
+  margin: 12px auto;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+}
+
+.red {
+  border: 4px solid red;
+}
+
+.red-active {
+  background-color: red;
+}
+
+.yellow {
+  border: 4px solid goldenrod;
+}
+
+.yellow-active {
+  background-color: goldenrod;
+}
+
+.green {
+  border: 4px solid green;
+}
+
+.green-active {
+  background-color: green;
+}
